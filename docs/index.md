@@ -1,7 +1,6 @@
 ## Welcome
 
-<div id="text"></div>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/test.js"></script>
 
-<script>
-    document.getElementById("text").innerHTML = "This is a test of javascript";
-</script>
+<div id="text"></div>
