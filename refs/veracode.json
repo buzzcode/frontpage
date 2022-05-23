@@ -1,0 +1,14 @@
+{
+    "links": [
+        {
+            "name": "Veracode Flaw Importer",
+            "repo": "https://github.com/buzzcode/veracode-flaws-to-issues",
+            "tags": [ "github", "flaw import", "policy", "pipeline" ]
+        },
+        {
+            "name": "AzureDevOps Pipeline Scan",
+            "repo":"https://github.com/julz0815/ADO-Veracode-Pipeline-Scan-Plugin",
+            "tags": [ "AzureDevOps", "pipeline"]
+        }
+    ]
+}

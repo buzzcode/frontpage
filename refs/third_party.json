@@ -1,0 +1,14 @@
+{
+    "links": [
+        {
+            "name": "Veracode Flaw Importer",
+            "repo": "https://github.com/brian1917/vcodeapi",
+            "tags": [ "api", "go" ]
+        },
+        {
+            "name": "PDF Reports",
+            "repo":"https://github.com/jphillips-vc/veracode-pdf-reports",
+            "tags": [ "Reporting"]
+        }
+    ]
+}
