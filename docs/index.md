@@ -4,3 +4,9 @@
 <script src="./test.js"></script>
 
 <div id="text"></div>
+
+<button name="button1" onclick="window.location.href='http://veracode.com';">Veracode</button>
+
+
+
+
